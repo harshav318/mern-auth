@@ -1,6 +1,6 @@
-# MERN Auth Practice
+# MERN Auth 
 
-This project is a practice implementation of authentication using the MERN stack (MongoDB, Express, React, Node.js). It includes user registration, login, and protected routes with JWT (JSON Web Token) for secure session management.
+This project is a implementation of authentication using the MERN stack (MongoDB, Express, React, Node.js). It includes user registration, login, and protected routes with JWT (JSON Web Token) for secure session management.
 
 ## Features
 
