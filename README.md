@@ -19,3 +19,6 @@ This project is a practice implementation of authentication using the MERN stack
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT, bcrypt
+
+## Deployement
+- **Render** 
